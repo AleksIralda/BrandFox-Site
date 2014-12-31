@@ -112,7 +112,6 @@
 <file name="gridtile.png" server="31.170.160.86/public_html/" local="130612910073201050" remote="130591427400000000" Dst="1" />
 <file name="posible.png" server="31.170.160.86/public_html/" local="130591277838834794" remote="130591464000000000" Dst="1" />
 <file name="Momo-Grafica-Branding.png" server="31.170.160.86/public_html/" local="130591936542095766" remote="130592169000000000" Dst="1" />
-<file name="01_about.png" server="31.170.160.86/public_html/" local="130405098680000000" remote="130593623400000000" Dst="1" />
 <file name="02.jpg" server="31.170.160.86/public_html/" local="130428239798331799" remote="130593623400000000" Dst="1" />
 <file name="03.jpg" server="31.170.160.86/public_html/" local="130428239801461978" remote="130593623400000000" Dst="1" />
 <file name="04.jpg" server="31.170.160.86/public_html/" local="130428239802962064" remote="130593623400000000" Dst="1" />
@@ -176,4 +175,8 @@
 <file name="exito.jpg" server="ftp.brandfox.com.mx//public_html/" local="130633985962059431" remote="130633990800000000" Dst="1" />
 <file name="golden-vault.ogv" server="ftp.brandfox.com.mx//public_html/" local="130633435249395679" remote="130633990800000000" Dst="1" />
 <file name="golden-vault.webm" server="ftp.brandfox.com.mx//public_html/" local="130633433686086134" remote="130633991400000000" Dst="1" />
+<file name="parallax.jpg" server="ftp.brandfox.com.mx//public_html/" local="130486950750000000" remote="130638323400000000" Dst="1" />
+<file name="screens.png" server="ftp.brandfox.com.mx//public_html/" local="130639096406499213" remote="130639116600000000" Dst="1" />
+<file name="slide-four.png" server="ftp.brandfox.com.mx//public_html/" local="130639094978741575" remote="130639116600000000" Dst="1" />
+<file name="slide2-2.png" server="ftp.brandfox.com.mx//public_html/" local="130639095411308538" remote="130639116600000000" Dst="1" />
 </dwsync>
